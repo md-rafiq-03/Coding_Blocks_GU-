@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_row","url":"c:\\Users\\Pc\\Coding_Blocks_GU-\\Code\\lecture 14\\max_sum_row.cpp","tests":[{"id":1719369958494,"input":"2 3\n1 2 3 \n4 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pc\\Coding_Blocks_GU-\\Code\\lecture 14\\max_sum_row.cpp","group":"local","local":true}
