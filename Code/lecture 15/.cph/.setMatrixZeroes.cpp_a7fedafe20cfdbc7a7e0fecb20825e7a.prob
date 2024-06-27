@@ -1,0 +1,1 @@
+{"name":"Local: setMatrixZeroes","url":"c:\\Users\\Pc\\Desktop\\Coding Blocks\\lecture 15\\setMatrixZeroes.cpp","tests":[{"id":1719497686931,"input":"3 3 \n1 1 0\n1 0 1\n0 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pc\\Desktop\\Coding Blocks\\lecture 15\\setMatrixZeroes.cpp","group":"local","local":true}
