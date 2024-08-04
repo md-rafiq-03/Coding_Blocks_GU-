@@ -112,8 +112,5 @@ int main(){
         cout<<endl;
         node* root2=buildTreePre();
         print(root2);
-
-
-
     return 0;
 }
